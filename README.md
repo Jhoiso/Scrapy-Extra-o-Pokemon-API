@@ -14,7 +14,7 @@ Criei o convertor para facilitar a leitura do arquivo, já que inseri um dicion�
 Para gerar o arquivo .jl com:
   python conversor.py pokemon.json
   
-##Rodando os Mappers e Reducers
+## Rodando os Mappers e Reducers
 Existem 2 arquivos, dano.py e tipo.py, esses arquivos são um mapreduce:
 
 ### dano.py
